@@ -1,0 +1,22 @@
+{
+  "name": "is-wasabi-npm-package",
+  "version": "1.0.0",
+  "description": "check if a string is wasabi or not",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kuldeep5432/is-wasabi-npm-package.git"
+  },
+  "keywords": [
+    "wasabi"
+  ],
+  "author": "wabisabi5432",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kuldeep5432/is-wasabi-npm-package/issues"
+  },
+  "homepage": "https://github.com/kuldeep5432/is-wasabi-npm-package#readme"
+}
